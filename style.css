@@ -5,7 +5,7 @@ body{
 }
 
 h2 {
-  color: white; 
+  color: black;
   text-align: center;
 
 }
@@ -14,22 +14,22 @@ h2 {
   text-align: center;
 }
 p{
-  color: white;
+  color: black;
 	text-align: right;
 }
 audio {
 display: none;
 }
 h3 {
-	color: white;
+	color: black;
 	text-align: left;
 }
 h3{
-	color: white;
+	color: black;
 	text-align: center;
 }
 h4{
-	color: white;
+	color: black;
 	text-align: center;
 
 }
